@@ -5,7 +5,7 @@ const app = express();
 const pets = [
   {
     id: 1,
-    name: leblequja,
+    name: "cat",
   },
 ];
 
