@@ -1,5 +1,4 @@
 import express from "express";
-import uuid from "uuid";
 
 const app = express();
 
